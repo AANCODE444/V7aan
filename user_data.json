@@ -76,5 +76,9 @@
     "name": "Aldo",
     "password": "aldo",
     "telegramID": "7646781504"
+  },
+  "Aldo": {
+    "name": "aldo",
+    "password": "7646781504"
   }
 }
