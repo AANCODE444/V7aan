@@ -66,5 +66,10 @@
   "62895806115030": {
     "name": "xen",
     "password": "xen"
+  },
+  "6285716843988": {
+    "name": "mad",
+    "password": "1",
+    "telegramID": "7635761653"
   }
 }
